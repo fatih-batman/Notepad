@@ -192,10 +192,10 @@ else return true;
 }
 }
   
-  ![image](https://user-images.githubusercontent.com/78312646/159261127-c4aff572-65ab-4a70-b8bd-f4701b3a7437.png)
-
+ 
   
   
   UML SINIF DİYAGRAMI
-  ![Uploading image.png…]()
+ ![image](https://user-images.githubusercontent.com/78312646/159261127-c4aff572-65ab-4a70-b8bd-f4701b3a7437.png)
+
 
