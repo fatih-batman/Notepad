@@ -15,6 +15,10 @@ Observer tasarım deseni: Kelime anlamı gözlemcidir. Notepad uygulaması kendi
 
 Command, iterator, observer ve memento tasarım kalıpları bu projede kullanılmıştır.
 
+![Screenshot_1](https://user-images.githubusercontent.com/78312646/159262621-134d2b99-2e64-46b7-a36f-5fb2747caef2.png)
+![Screenshot_2](https://user-images.githubusercontent.com/78312646/159262623-a386236d-198c-49ec-baf4-ec3458e1903a.png)
+![Screenshot_3](https://user-images.githubusercontent.com/78312646/159262630-6108add6-1f35-4260-a69b-b20b97fb709b.png)
+
 
 
 
